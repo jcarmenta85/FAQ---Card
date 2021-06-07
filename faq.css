@@ -12,6 +12,8 @@
     z-index: 1;
     /* font-family: ; */
     color: hsl(240, 6%, 50%);
+    min-height: 100vh;
+
 }
 
 .wrapper{
